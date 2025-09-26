@@ -1,4 +1,7 @@
-# PredictionFromDint
+# Prediction From Integrated Dispersion Data
+
+Note: In this study, we assume a random noise which is proportional to integrated dispersion measurements. In another study, we will assume totally random noise later.
+
 Predicting ring dimensions and Sellmeier model from integrated dispersion datasets.
 
 
